@@ -63,7 +63,6 @@ header {
     padding-right: 50px;
 }
 
-
 .nav-list a,
 .header__nav button {
     color: white;
@@ -100,17 +99,11 @@ header {
     font-size: 16px;
 }
 
-
-
-
-
-
 .header__article {
     display: flex;
     justify-content: center;
     gap: 50px;
     flex-wrap: wrap;
-
     margin: 0 auto;
     margin-bottom: 160px;
 }
@@ -119,7 +112,6 @@ header {
     display: flex;
     column-gap: 30px;
 }
-
 
 .header__article h1,
 .header__article p,
@@ -166,11 +158,9 @@ header {
     color: white;
 }
 
-
 .header__nfts-part1 {
     width: 480px;
 }
-
 
 .header__nfts-part2 h5 {
     position: relative;
@@ -180,7 +170,6 @@ header {
     margin-bottom: 10px;
 }
 
-
 .header__nfts-part2 p {
     font-size: 16px;
     display: inline-block;
@@ -188,7 +177,6 @@ header {
     right: 14px;
     bottom: 7px;
 }
-
 
 .space-wolking-block {
     margin-top: 33px;
@@ -203,24 +191,16 @@ header {
     bottom: 2px;
 }
 
-
 .header__nfts-part2 figcaption h5,
 .header__nfts-part2 figcaption img,
 .header__nfts-part2 figcaption p {
     margin-left: 20px;
 }
 
-
 .nfts-amount .auctions {
     position: relative;
     bottom: 10px;
 }
-
-
-
-
-
-
 
 .trending-collection__article {
     color: white;
@@ -243,15 +223,10 @@ header {
     font-weight: 400;
 }
 
-
 .trending-collection__article {
     width: 80%;
     margin: 0 auto;
 }
-
-
-
-
 
 .trending-collection-images2 {
     display: flex;
@@ -307,11 +282,6 @@ header {
     color: white;
     margin-left: 12px;
 }
-
-
-
-
-
 
 .top-creators-text {
     display: flex;
@@ -382,7 +352,6 @@ header {
     text-align: center;
 }
 
-
 .top-creators-images__card {
     width: 240px;
     height: 238px;
@@ -391,19 +360,14 @@ header {
     position: relative;
 }
 
-
-
 .top-creators-images2,
 .top-creators-images3 {
     margin-top: 30px;
 }
 
-
-
 .top-creators-images__child img {
     margin: 20px 0 0 60px;
 }
-
 
 .top-creators-number {
     background-color: #2B2B2B;
@@ -438,9 +402,6 @@ header {
     padding: 0 15px;
 }
 
-
-
-
 .browse-categories-text {
     text-align: center;
 }
@@ -454,7 +415,6 @@ header {
     font-weight: 600;
     color: white;
 }
-
 
 .browse-categories__container figcaption {
     width: 240px;
@@ -475,18 +435,9 @@ header {
     top: 20px;
 }
 
-
 .browse-categories__container__article {
     margin-top: 60px;
 }
-
-
-
-
-
-
-
-
 
 .explore-trending__section {
     margin-top: 160px;
@@ -539,8 +490,6 @@ header {
     bottom: 3px;
 }
 
-
-
 .explore-trending__article-images {
     display: flex;
     justify-content: center;
@@ -548,12 +497,6 @@ header {
     flex-wrap: wrap;
     padding: 0 15px;
 }
-
-
-
-
-
-
 
 .text-description {
     display: flex;
@@ -565,12 +508,9 @@ header {
     justify-content: space-between;
 }
 
-
 .mood-dancer p {
     display: inline-block;
 }
-
-
 
 .text-description p {
     font-size: 12px;
@@ -605,9 +545,9 @@ header {
     top: 20px;
 }
 
-
-
-
+.burger-menu {
+    display: none;
+}
 
 .text-wrapper {
     width: 330px;
@@ -632,9 +572,6 @@ header {
     margin-left: 20px;
 }
 
-
-
-
 .how-it-works__article {
     display: flex;
     justify-content: center;
@@ -642,7 +579,6 @@ header {
     gap: 30px;
     padding: 0 15px;
 }
-
 
 .block {
     background-color: #3B3B3B;
@@ -676,7 +612,6 @@ header {
     justify-content: center;
 }
 
-
 .how-it-works-text {
     color: white;
     text-align: center;
@@ -694,13 +629,9 @@ header {
     font-weight: 400;
 }
 
-
 .how-it-works__section {
     margin-bottom: 120px;
 }
-
-
-
 
 .weekly-digest__wrapper {
     background-color: #3B3B3B;
@@ -757,7 +688,7 @@ header {
 .weekly-digest-text .second-btn p {
     display: inline-block;
     position: relative;
-    bottom: 2px;
+    bottom: 3px;
 }
 
 .weekly-digest-text .second-btn img {
@@ -770,24 +701,16 @@ header {
     justify-content: center;
 }
 
-
-
-
-
 footer {
     background-color: #3B3B3B;
     min-height: fit-content;
     margin-top: 80px;
 }
 
-
-
 .social-icons {
     display: flex;
     gap: 10px;
 }
-
-
 
 .footer__article {
     display: flex;
@@ -797,7 +720,6 @@ footer {
     row-gap: 35px;
     padding: 0 30px;
 }
-
 
 .first-btn {
     margin-top: 20px;
@@ -818,7 +740,6 @@ footer {
     right: 35px;
 }
 
-
 .logo {
     margin: 65px 0 30px 0;
 }
@@ -835,7 +756,6 @@ footer {
     color: #CCCCCC;
     margin: 20px 0 15px 0;
 }
-
 
 .second-block h5 {
     margin: 65px 0 30px 0;
@@ -854,7 +774,6 @@ footer {
 .second-block-p2 {
     margin: 20px 0;
 }
-
 
 .third-block h5 {
     margin: 65px 0 30px 0;
@@ -884,7 +803,6 @@ footer {
     margin-bottom: 40px;
 }
 
-
 .copyright::before {
     content: '';
     background-color: #858584;
@@ -895,13 +813,6 @@ footer {
     height: 2px;
     margin: 0 auto;
 }
-
-
-
-
-
-
-/* media */
 
 @media screen and (min-width: 2000px) and (max-width: 2600px) {
     .space-wolking-image {
@@ -938,8 +849,6 @@ footer {
         font-size: 14px;
     }
 
-
-
     .top-creators-images__child h5 {
         font-size: 23px;
     }
@@ -973,12 +882,9 @@ footer {
         font-size: 20px;
     }
 
-
-
     .trending-collection-images__container {
         gap: 75px;
     }
-
 
     .top-creators-images {
         gap: 45px;
@@ -988,7 +894,6 @@ footer {
     .top-creators-images3 {
         margin-top: 45px;
     }
-
 
     .browse-categories__container {
         gap: 45px;
@@ -1002,11 +907,9 @@ footer {
         gap: 45px;
     }
 
-
     .how-it-works__article {
         gap: 45px;
     }
-
 
     .weekly-digest__wrapper {
         column-gap: 95px;
@@ -1019,7 +922,6 @@ footer {
     .footer__article p {
         font-size: 19px;
     }
-
 
     .first-btn,
     .second-btn {
@@ -1046,7 +948,6 @@ footer {
     .mood-dancer p {
         font-size: 19px;
     }
-
 
     .weekly-digest-text .first-btn,
     .weekly-digest-text .second-btn p {
@@ -1161,7 +1062,6 @@ footer {
         min-height: 220px;
     }
 
-
     .explore-trending__article-images h5 {
         font-size: 24px;
     }
@@ -1169,7 +1069,6 @@ footer {
     .trending-collection-images__container {
         gap: 75px;
     }
-
 
     .top-creators-images {
         gap: 75px;
@@ -1193,7 +1092,6 @@ footer {
         gap: 75px;
     }
 
-
     .how-it-works__article {
         gap: 75px;
     }
@@ -1215,7 +1113,6 @@ footer {
     .header__article button {
         font-size: 20px;
     }
-
 }
 
 @media screen and (max-width: 1480px) {
@@ -1271,34 +1168,47 @@ footer {
         width: 100%;
     }
 
-
     .burger-menu {
-        right: 55px;
-        top: 29px;
-        right: 0;
-        position: absolute;
-        width: 44px;
+        display: block;
+        width: 35px;
         height: 4px;
-        background-color: white;
+        position: relative;
+        top: 4px;
     }
 
-    .burger-menu::before {
-        content: '';
-        width: 25px;
-        height: 4px;
-        background-color: white;
-        position: absolute;
-        left: 18px;
-        margin-top: 15px;
+    .ham {
+        cursor: pointer;
+        -webkit-tap-highlight-color: transparent;
+        transition: transform 400ms;
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
     }
-
-    .burger-menu::after {
-        content: '';
-        width: 44px;
-        height: 4px;
-        background-color: white;
-        position: absolute;
-        margin-top: 31px;
+    .hamRotate.active {
+        transform: rotate(45deg);
+    }
+    .hamRotate180.active {
+        transform: rotate(180deg);
+    }
+    .line {
+        fill:none;
+        transition: stroke-dasharray 400ms, stroke-dashoffset 400ms;
+        stroke: white;
+        stroke-width:5.5;
+        stroke-linecap:round;
+    }
+    .ham2 .top {
+        stroke-dasharray: 40 121;
+    }
+    .ham2 .bottom {
+        stroke-dasharray: 40 121;
+    }
+    .ham2.active .top {
+        stroke-dashoffset: -102px;
+    }
+    .ham2.active .bottom {
+        stroke-dashoffset: -102px;
     }
 }
 
@@ -1463,7 +1373,6 @@ footer {
         height: 50px;
     }
 
-
     .top-creators-images__child h5 {
         font-size: 17px;
     }
@@ -1522,7 +1431,6 @@ footer {
         display: none;
     }
 
-
     .card-4,
     .card-8 {
         width: 400px;
@@ -1549,16 +1457,12 @@ footer {
         position: relative;
         left: 0;
     }
-
-
 }
 
 @media screen and (max-width: 539px) {
     .top-creators-images__card {
         width: 350px;
     }
-
-
 
     .main-block {
         position: relative;
@@ -1927,6 +1831,7 @@ footer {
     }
 }
 
+
 @media screen and (max-width: 521px) {
     .trending-collection__article p {
         text-wrap: balance;
@@ -1957,23 +1862,6 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
-    .burger-menu {
-        width: 35px;
-        height: 4px;
-    }
-
-    .burger-menu::before {
-        content: '';
-        width: 15px;
-        height: 4px;
-    }
-
-    .burger-menu::after {
-        content: '';
-        width: 35px;
-        height: 4px;
-    }
-
     .first-photo img {
         width: 360px;
     }
