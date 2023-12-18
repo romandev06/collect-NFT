@@ -756,11 +756,13 @@ header {
 
 .weekly-digest-text .second-btn p {
     display: inline-block;
+    position: relative;
+    bottom: 2px;
 }
 
 .weekly-digest-text .second-btn img {
     position: relative;
-    top: 5px;
+    top: 3px;
 }
 
 .weekly-digest__wrapper-container {
@@ -1817,6 +1819,10 @@ footer {
     .browse-categories__container-section h3 {
         font-size: 35px;
     }
+
+    .burger-menu {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 412px) {
@@ -1946,7 +1952,7 @@ footer {
 @media screen and (max-width: 520px) {
     .space-wolking-image {
         width: 410px;
-        height: 250px;
+        height: 290px;
     }
 }
 
@@ -1971,18 +1977,26 @@ footer {
     .first-photo img {
         width: 360px;
     }
+
+    .weekly-digest-text .second-btn {
+        margin-bottom: 13px;
+    }
 }
 
 @media screen and (max-width: 410px) {
     .first-photo img {
         width: 320px;
     }
+
+    .weekly-digest-text .second-btn {
+        margin-bottom: 24px;
+    }
 }
 
 @media screen and (max-width: 450px) {
     .space-wolking-image {
         width: 350px;
-        height: 220px;
+        height: 250px;
     }
 
     .primary-photo {
@@ -2043,6 +2057,10 @@ footer {
 
     .weekly-digest-text h3 {
         font-size: 25px;
+    }
+
+    .weekly-digest-text .second-btn {
+        margin-bottom: 42px;
     }
 }
 
